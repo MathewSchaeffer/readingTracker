@@ -1,0 +1,35 @@
+body {
+    color: lawngreen;
+    box-sizing: border-box;
+    margin: 0px;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav {
+    background-color: black;
+    padding: 20px;
+
+}
+
+footer {
+    position: fixed;
+    /* background-color: red; */
+    height: 80px;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+}
+
+footer input {
+    height: 100%;
+    font-size: 2rem;
+    background: none;
+    border: none;
+
+    color: lawngreen;
+    font-family: inherit;
+    font-weight: 600;
+    width: 100%;
+    padding: 0px 20px;
+}
